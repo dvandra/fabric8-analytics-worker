@@ -18,7 +18,7 @@ See [workers/README.md](./f8a_worker/workers/README.md) for a listing of the con
 
 ## Contributing
 
-See our [contributing guidelines](https://github.com/fabric8-analytics/common/blob/master/CONTRIBUTING.md) for more info.
+See our [contributing guidelines](https://github.com/fabric8-analytics/common/blob/master/CONTRIBUTING.md) for more information.
 
 ## Running worker environment with docker-compose
 
